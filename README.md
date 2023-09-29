@@ -33,7 +33,7 @@ This Java code defines a simple hierarchy of animal classes and a simulator to m
 
 In summary, this code showcases the concepts of inheritance, method overriding, polymorphism, object creation, and method invocation in object-oriented programming using a simple example of animal noises.
 
----------------------------------------------**PROJECT DESCRIPTION**---------------------------------------------------------------
+---------------------------------------------**PROJECT DESCRIPTION**-----------------------------------------------------
 
 The "Animal Noise Simulator" is a Java project that simulates the noises made by different types of animals. It utilizes object-oriented programming concepts such as inheritance, method overriding, and polymorphism to create a hierarchy of animal classes. Each animal class provides its own implementation of the `noise()` method to produce a specific noise characteristic of that animal.
 
